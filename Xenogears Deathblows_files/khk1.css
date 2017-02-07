@@ -1,0 +1,157 @@
+p {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+
+menutitle {
+	margin-bottom: 0px;
+	font-family: verdana;
+	font-size: 16px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+
+span {
+	margin-bottom: 0px;
+	font-family: verdana;
+	font-size: 16px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+
+body {
+	margin-bottom: 0px;
+	font-family: vivacious;
+	font-size: 16px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+
+table  {
+	color:ffffff;
+	font-family: verdana;
+	font-size:10px;
+	font-weight: normal;
+}
+
+
+.cell_space img{
+    margin-right: 3px;
+}
+
+a:link {
+	color: ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: underline;
+
+}
+
+
+a:hover {
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	border: thin none #FFFFFF;
+	text-decoration: underline;
+}
+
+
+a:visited {
+	color: ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+.text1 {
+	font-family: verdana;
+	font-size: 12px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+.text2 {
+	font-family: verdana;
+	font-size: 20px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+
+.text3 {
+	font-family: vivacious;
+	font-size: 50px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+.text4 {
+	font-family: verdana;
+	font-size: 40px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+.text5 {
+	font-family: boulder;
+	font-size: 40px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+.text6 {
+	font-family: Amazone BT;
+	font-size: 30px;
+	color: ffffff;
+	font-weight: normal;
+}
+
+.text7 {
+	font-family: verdana;
+	font-size: 16px;
+	color: 00349a;
+	font-weight: normal;
+}
+
+#nav-menu li a {
+text-align: center;
+}
+
+#nav-menu ul {
+    list-style: none;
+    padding: 4;
+    margin: 0;
+}
+
+.menutitle{
+cursor: pointer;
+margin-bottom: 0px;
+font-size: 11px;
+color:#FFFFFF;
+width:194px;
+font-weight: normal;
+}
+
+.submenu {
+	 font family: verdana;
+	font-size: 12px;
+	color:#FFFFFF;
+	width:194px;
+	font-weight: normal;
+}
